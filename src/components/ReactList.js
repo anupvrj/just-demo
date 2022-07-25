@@ -2,7 +2,7 @@ import React from 'react'
 
 function ReactList() {
 
-    const cars = [{name:'ABC'},{name:'CDE'},{name:'FGH'}]
+    const cars = [{name:'ABC'},{name:'CDE'},{name:'FGH'},{name:'ANUP'}]
   return (
     <div>
         <ul>
