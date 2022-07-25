@@ -5,11 +5,7 @@ function ReactList() {
     const cars = [{name:'ABC'},{name:'CDE'},{name:'FGH'},{name:'ANUP'}]
   return (
     <div>
-        <ul>
-            {cars.map((car)=><li>{car.name}</li>
-            )
-            }
-       </ul>
+        <h3>Finally Deployed React App :)</h3>
 
     {/* Hello */}
     </div>
